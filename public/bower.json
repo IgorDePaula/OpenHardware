@@ -1,0 +1,21 @@
+{
+  "name": "OpenHardware",
+  "version": "0.0.0",
+  "homepage": "https://github.com/IgorDePaula/OpenHardware",
+  "authors": [
+    "Igor De Paula <principe.borodin@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "Chart.js": "~1.0.2",
+    "moment": "~2.10.6"
+  }
+}

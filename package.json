@@ -1,0 +1,26 @@
+{
+  "name": "open-hardware",
+  "version": "0.0.1",
+  "description": "Code for demonstration for manipulation with open hardware and open web technologies.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "serialport": "^1.7.4",
+    "socket.io": "^1.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorDePaula/OpenHardware.git"
+  },
+  "author": "Igor de Paula <igordepaula@adminweb.com.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorDePaula/OpenHardware/issues"
+  },
+  "homepage": "https://github.com/IgorDePaula/OpenHardware#readme"
+}
